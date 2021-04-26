@@ -33,7 +33,7 @@
     "@carto/mapnik": "3.6.2-carto.16",
     "@mapbox/sphericalmercator": "^1.1.0",
     "generic-pool": "^3.6.1",
-    "mime": "^2.4.0"
+    "mime": "^2.5.2"
   },
   "devDependencies": {
     "mocha": "^7.1.2",
